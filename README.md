@@ -9,7 +9,7 @@ https://code-maven.com/function-or-callback-in-python
 
 24th Oct,2017: http://heather.cs.ucdavis.edu/~matloff/simpy.html ,The material is a better induction for simpy, which also introduce some knowledge about python and math.
 
-My friend teaches her kid math, there is a simple problem that can be solved by many methods, I suggest her to try statistics method, and I search for a way to get a traverse permutation matrix, because I use python, the follow site give a method how to create a list with tuple-formated elements.
+My friend teaches her kid math, there is a simple problem that can be solved by many methods, I suggest her to try programming method, and I search for a way to get a traverse permutation matrix, because I use python, the follow site give a method how to create a list with tuple-formated elements.
 
 https://stackoverflow.com/questions/104420/how-to-generate-all-permutations-of-a-list-in-python 
 
