@@ -16,7 +16,7 @@ https://stackoverflow.com/questions/104420/how-to-generate-all-permutations-of-a
 Next,I calculated inner product between two tuple. i used numpy and itertools packages.
 
 The codes is as follow:
-
+```
 In [27]: import itertools
 
 In [28]: import numpy as np
@@ -26,4 +26,4 @@ In [29]: x=list(itertools.product([1,-1], repeat=8))#生成历遍矩阵
 In [30]: y=[np.dot(i,(8,7,6,5,4,3,2,1)) for i in x]
 
 In [31]: y=[i+9 for i in y]
-
+```
