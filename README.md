@@ -29,3 +29,5 @@ In [31]: y=[i+9 for i in y]
 ```
 25th Oct,2017: I discussed with my friend about math problem mentioned yesterday. I find it harder than what I thought and did.
 I have to redesign the program if I want to get more solutions.
+
+Reinforcement or GENERIC algorithm may be a better start. Let me try try.
