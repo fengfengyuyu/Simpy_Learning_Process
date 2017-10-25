@@ -27,3 +27,5 @@ In [30]: y=[np.dot(i,(8,7,6,5,4,3,2,1)) for i in x]
 
 In [31]: y=[i+9 for i in y]
 ```
+25th Oct,2017: I discussed with my friend about math problem mentioned yesterday. I find it harder than what I thought and did.
+I have to redesign the program if I want to get more solutions.
